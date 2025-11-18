@@ -80,7 +80,7 @@ This Android application showcases different types of animations commonly used i
 ```
 app/
 ├── src/main/
-│   ├── java/com/bytemap/mad_24172012068_practical4/
+│   ├── java/com/bytemap/mad_24012022015_practical4/
 │   │   ├── SplashActivity.kt
 │   │   └── MainActivity.kt
 │   ├── res/
@@ -134,6 +134,6 @@ This project is for educational purposes. Use it as a learning resource for Andr
 
 ---
 
-**Student ID**: 24172012068  
+**Student ID**: 24012022015  
 **Practical**: 6  
 **Course**: Mobile Application Development
